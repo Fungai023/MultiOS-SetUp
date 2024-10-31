@@ -4,8 +4,7 @@
 Memory updated
 Here's a sample README.md file for your project:
 
-CrossSetup
-CrossSetup is a Bash script designed to prepare laptops for students at [Your Campus Name]. The script automates the setup of essential tools and configurations for coding, productivity, and campus-specific applications on various operating systems. For non-Ubuntu operating systems, it first installs an Ubuntu-based terminal environment before proceeding with configurations.
+MultiOS-setUp is a Bash script designed to prepare laptops for students at [Your Campus Name]. The script automates the setup of essential tools and configurations for coding, productivity, and campus-specific applications on various operating systems. For non-Ubuntu operating systems, it first installs an Ubuntu-based terminal environment before proceeding with configurations.
 
 Features
 The script automates the installation and setup of the following:
