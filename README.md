@@ -1,8 +1,5 @@
 # MultiOS-SetUp
 
-To make your README more visually engaging, we can add custom formatting, icons, emojis, and sections to enhance readability and style. Here’s an updated, stylish version:
-
----
 
 # 🚀 **MultiOS-SetUp** 🚀
 
