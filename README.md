@@ -1,6 +1,3 @@
-# MultiOS-SetUp
-
-
 # 🚀 **MultiOS-SetUp** 🚀
 
 **MultiOS-SetUp** is a powerful, cross-platform Bash script to set up laptops for students at [Your Campus Name]. Tailored for productivity and coding, it automates the installation of essential software and configurations, ensuring that each student has a ready-to-use environment for campus work.
